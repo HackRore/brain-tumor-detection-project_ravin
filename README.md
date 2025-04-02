@@ -69,13 +69,13 @@ Contributions are welcome! Please create a pull request with your changes.
 
 ## Screenshots
 
-![Preview 1](static/images/preview1.png)*Landing Page*
+![Preview 1](static/images/PR_1.png)*Landing Page*
 
-![Preview 2](static/images/preview2.png)*Uploaded a image*
+![Preview 2](static/images/PR_2.png)*Uploaded a image*
 
-![Preview 3](static/images/preview3.png)*Brain tumer detected*
+![Preview 3](static/images/PR_3.png)*Brain tumer detected*
 
-![Preview 4](static/images/preview4.png)*No Brain Tumer Detected*
+![Preview 4](static/images/PR_4.png)*No Brain Tumer Detected*
 
-![Preview 5](static/images/preview5.png)*No file selected*
+![Preview 5](static/images/PR_2.png)*No file selected*
 
