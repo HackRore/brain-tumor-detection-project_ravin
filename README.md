@@ -1,4 +1,4 @@
-# Brain Tumor Detection Web App By  Om Chavan
+# Brain Tumor Detection Web App 
 
 This is a web application built using Flask for detecting brain tumors from MRI images.
 
